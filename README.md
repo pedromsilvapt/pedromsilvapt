@@ -1,8 +1,8 @@
 ## About Me
-My name is Pedro Silva. I've started programming from a very young age, since I was 13 years old, on my own free time. I am 24 now, and I've both a Bachelor's Degree in Computer Science and (am currently finishing) a Master's in Computer Engineering. I have lot's of experience with PHP, C#, JavaScript/TypeScript and Python. I've worked with AngularJS/Angular2, Vue, Laravel, ASP.NET Core and more. But more than what I already am familiar with, I'm always eager to know what I can learn more.
+My name is Pedro Silva. I've started programming from a very young age, since I was 13 years old, on my own free time. I am 24 now, and I have a Bachelor's Degree in Computer Science and (am currently finishing) a Master's in Computer Engineering. I have lot's of experience with PHP, C#, JavaScript/TypeScript and Python. I've worked with AngularJS/Angular2, Vue, Laravel, ASP.NET Core and more. But more than what I already am familiar with, I'm always eager to know what I can learn more.
 
 ## Work Showcase
-I've worked on countless projects, at Blip during my internship there, at school and in college, and in my own free time. You can see some of them below.
+I've worked on countless projects: at Blip during my internship there, at school and in college, and in my own free time. You can see some of them below.
 
 ### Unicast
 For the last five years, I've been developing, as a hobby alongside my brother, a web-based media center, inspired by the Kodi project, that is responsive (mobile friendly), can be remotely controlled on the smartphone, and player agnostic (extensible, with out-of-the-box support for streaming to Chromecast devices, to a MPV player and to a Kodi media center). As a result of this, I've also learned a lot about working with FFmpeg.
@@ -43,7 +43,7 @@ forEach( source, res => console.log( res ) );
 > See the full repository [here](https://github.com/pedromsilvapt/data-async-iterator) :memo:
 
 #### Pinned Repositories
-Below :point_down: you can find a list of my pinned repositories, or you can also look at the complete list. But before that, for reading up to this point, here is a GIF of a cat and a dog as a thank you! :heart:
+Below :point_down: you can find a list of my pinned repositories, or you can also look at the complete repository list. But before that, for sticking with me up to this point, here is a cute GIF of a cat and a dog as a thank you! :heart:
 <p align="center">
   <a href="https://tenor.com/view/dogs-cats-gif-8707712">
   <img width="460" src="https://media1.tenor.com/images/849c5a458f1e7b9ea271e8f1829a2663/tenor.gif?itemid=8707712" alt="Kitten and Dog">
