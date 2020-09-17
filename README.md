@@ -22,6 +22,19 @@ When I was 18 years old, for my individual high school Professional Aptitude Pro
 
 > See a quick **demo video** [here](https://www.youtube.com/watch?v=UaVlAQFEcIM&list=PLt5ao-eCbVn3kK2h63uE7F2ggw7CXYRIR&index=4) :clapper:
 
+### MusiKLa - Music and Keyboard Language
+For my Master's dissertation, I've designed and developed a Domain Specific Language for creating music algorithmically. It features variables, loops and other control structures, functions, modular files, declaring reactive virtual musical keyboards and much more. It can play the sounds live, save the music sheets or export as MIDI events, among others.
+
+- **Tech Stack** Python command line application, with a LALR grammar
+
+<p align="center">
+  <a href="https://tenor.com/view/dogs-cats-gif-8707712">
+  <img height="700px" src="https://raw.githubusercontent.com/pedromsilvapt/pedromsilvapt/master/musikla.png" alt="Musikla Code Sample">
+  </a>
+</p>
+
+> See the repository [here](https://github.com/pedromsilvapt/miei-dissertation)
+
 ### Async Iterators
 I program in TypeScript a lot, and have extensive experience with it's async nature. One of the projects I've developed contains a fair bit of utility functions designed to work with the recent async iterators added to the ECMAScript specification. Many of the operators are fairly simple (such as `map` and `filter`) while others are fairly more complex (such as the `flattenConcurrent` operator, whose source code is available [here](https://github.com/pedromsilvapt/data-async-iterator/blob/master/src/combinators/flatMap.ts#L38-L215)).
 
@@ -43,24 +56,9 @@ forEach( source, res => console.log( res ) );
 > See the full repository [here](https://github.com/pedromsilvapt/data-async-iterator) :memo:
 
 #### Pinned Repositories
-Below :point_down: you can find a list of my pinned repositories, or you can also look at the complete repository list. But before that, for sticking with me up to this point, here is a cute GIF of a cat and a dog as a thank you! :heart:
+Below :point_down: you can find a list of my pinned repositories, or you can also look at the complete repository list. But before that, and for sticking with me up to this point, here is a cute GIF of a cat and a dog as a thank you! :heart:
 <p align="center">
   <a href="https://tenor.com/view/dogs-cats-gif-8707712">
   <img width="460" src="https://media1.tenor.com/images/849c5a458f1e7b9ea271e8f1829a2663/tenor.gif?itemid=8707712" alt="Kitten and Dog">
   </a>
 </p>
-
-<!--
-**pedromsilvapt/pedromsilvapt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
