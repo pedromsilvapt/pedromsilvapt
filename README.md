@@ -56,9 +56,12 @@ forEach( source, res => console.log( res ) );
 > See the full repository [here](https://github.com/pedromsilvapt/data-async-iterator) :memo:
 
 #### Pinned Repositories
-Below :point_down: you can find a list of my pinned repositories, or you can also look at the complete repository list. But before that, and for sticking with me up to this point, here is a cute GIF of a cat and a dog as a thank you! :heart:
+For reading this far, here is a cute GIF of a cat and a dog as a thank you! :heart:
+
 <p align="center">
   <a href="https://tenor.com/view/dogs-cats-gif-8707712">
-  <img width="460" src="https://media1.tenor.com/images/849c5a458f1e7b9ea271e8f1829a2663/tenor.gif?itemid=8707712" alt="Kitten and Dog">
+      <img width="460" src="https://github.com/pedromsilvapt/pedromsilvapt/raw/master/cat-and-dog.gif" alt="Kitten and Dog">
   </a>
 </p>
+
+Below :point_down: you can also find a list of my pinned repositories, or you can also look at the [complete repository list](https://github.com/pedromsilvapt?tab=repositories).
