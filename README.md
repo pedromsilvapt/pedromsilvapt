@@ -33,10 +33,10 @@ For my Master's dissertation, I've designed and developed a Domain Specific Lang
   </a>
 </p>
 
-> See the repository [here](https://github.com/pedromsilvapt/miei-dissertation)
+> See the repository [here](https://github.com/pedromsilvapt/miei-dissertation) :memo:
 
 ### Async Iterators
-I program in TypeScript a lot, and have extensive experience with it's async nature. One of the projects I've developed contains a fair bit of utility functions designed to work with the recent async iterators added to the ECMAScript specification. Many of the operators are fairly simple (such as `map` and `filter`) while others are fairly more complex (such as the `flattenConcurrent` operator, whose source code is available [here](https://github.com/pedromsilvapt/data-async-iterator/blob/master/src/combinators/flatMap.ts#L38-L215)).
+I program in TypeScript a lot, and have extensive experience with it's async nature. One of the projects I've developed contains a fair bit of utility functions designed to work with the recent async iterators added to the ECMAScript specification. Many of the operators are fairly simple (such as `map` and `filter`) while others are fairly more complex (such as the `flattenConcurrent` operator, whose source code is available [here](https://github.com/pedromsilvapt/data-async-iterator/blob/master/src/combinators/flatMap.ts#L38-L215) :point_left:).
 
 ```typescript
 import { from, delay, map, flatMapConcurrent } from 'data-async-iterators';
