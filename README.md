@@ -28,7 +28,7 @@ For my Master's dissertation, I've designed and developed a Domain Specific Lang
 - **Tech Stack** Python command line application, with a LALR grammar
 
 <p align="center">
-  <a href="https://tenor.com/view/dogs-cats-gif-8707712">
+  <a href="https://pedromsilvapt.github.io/miei-dissertation/getting-started/notes-and-rests/">
   <img src="https://github.com/pedromsilvapt/pedromsilvapt/raw/master/musikla.png" alt="Musikla Code Sample">
   </a>
 </p>
