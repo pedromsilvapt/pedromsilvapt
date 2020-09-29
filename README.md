@@ -29,7 +29,7 @@ For my Master's dissertation, I've designed and developed a Domain Specific Lang
 
 <p align="center">
   <a href="https://tenor.com/view/dogs-cats-gif-8707712">
-  <img height="700px" src="https://raw.githubusercontent.com/pedromsilvapt/pedromsilvapt/master/musikla.png" alt="Musikla Code Sample">
+  <img src="https://github.com/pedromsilvapt/pedromsilvapt/raw/master/musikla.png" alt="Musikla Code Sample">
   </a>
 </p>
 
